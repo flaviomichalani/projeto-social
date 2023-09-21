@@ -29,17 +29,18 @@ section#telefone {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    height: 627px;
-    width: 311px;
-    background: url('../imagens/frame-iphone.png') no-repeat;
+    height: 777px;
+    width: 377px;
+    background: url('../imagens/s9plus-screen.png') no-repeat;
 }
 
 iframe#tela {
     position: relative;
-    top: 80px;
-    left: 22px;
-    width: 267px;
-    height: 471px;
+    border-radius: 10px;
+    top: 40px;
+    left: 12px;
+    width: 352px;
+    height: 722px;
 }
 
 section#redes-sociais {
