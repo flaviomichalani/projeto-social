@@ -29,9 +29,9 @@ section#telefone {
     top: 55%;
     left: 50%;
     transform: translate(-50%, -50%);
-    height: 777px;
-    width: 377px;
-    background: url('../imagens/s9plus-screen.png') no-repeat;
+    height: 627px;
+    width: 304px;
+    background: url('../imagens/s9plus-screen-resized.png') no-repeat;
 }
 
 iframe#tela {
@@ -39,8 +39,8 @@ iframe#tela {
     border-radius: 10px;
     top: 40px;
     left: 12px;
-    width: 352px;
-    height: 722px;
+    width: 280px;
+    height: 570px;
 }
 
 section#redes-sociais {
